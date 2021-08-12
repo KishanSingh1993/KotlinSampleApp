@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">KotlinSampleApp</string>
+    <string name="textview_and_edittext">TextView and EditText</string>
+    <string name="provide_input">Provide Input</string>
+    <string name="display_output">Display Output</string>
+    <string name="textview">TextView</string>
+    <string name="click_button">Click Button</string>
+    <string name="reset_output_text">reset output text</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="back">back</string>
+    <string name="secondactivity">SecondActivity</string>
+    <string name="value">Value</string>
+    <string name="id">Id</string>
+    <string name="next">Next</string>
+    <string name="logo_image">logo image</string>
+</resources>
