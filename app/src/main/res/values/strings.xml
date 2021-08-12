@@ -13,4 +13,27 @@
     <string name="id">Id</string>
     <string name="next">Next</string>
     <string name="logo_image">logo image</string>
+
+    <string name="dialogTitle">Delete File</string>
+    <string name="dialogMessage">Deleting file may be harm your system</string>
+
+    <string-array name="technology_list">
+        <item>C</item>
+        <item>C++</item>
+        <item>Java</item>
+        <item>.Net</item>
+        <item>Kotlin</item>
+        <item>Ruby</item>
+        <item>Rails</item>
+        <item>Python</item>
+        <item>Java Script</item>
+        <item>Php</item>
+        <item>Ajax</item>
+        <item>Perl</item>
+        <item>Hadoop</item>
+        <item>Dart</item>
+        <item>React</item>
+    </string-array>
+
+
 </resources>

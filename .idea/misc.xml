@@ -3,9 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/KotlinSampleApp/app/src/main/res/layout/activity_alert_dialog_screen.xml" value="0.16041666666666668" />
         <entry key="..\:/KotlinSampleApp/app/src/main/res/layout/activity_custom_toast.xml" value="0.1546875" />
+        <entry key="..\:/KotlinSampleApp/app/src/main/res/layout/activity_dom_parser_screen.xml" value="0.16041666666666668" />
+        <entry key="..\:/KotlinSampleApp/app/src/main/res/layout/activity_list.xml" value="0.16041666666666668" />
         <entry key="..\:/KotlinSampleApp/app/src/main/res/layout/activity_main.xml" value="0.1546875" />
         <entry key="..\:/KotlinSampleApp/app/src/main/res/layout/activity_second.xml" value="0.1546875" />
+        <entry key="..\:/KotlinSampleApp/app/src/main/res/layout/custom_list.xml" value="0.16041666666666668" />
         <entry key="..\:/KotlinSampleApp/app/src/main/res/layout/custom_toast.xml" value="0.1546875" />
       </map>
     </option>

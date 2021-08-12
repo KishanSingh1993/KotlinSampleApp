@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.KotlinSampleApp">
         <activity
+            android:name=".DomParserScreen"
+            android:exported="true" />
+        <activity
+            android:name=".AlertDialogScreen"
+            android:exported="true" />
+        <activity
+            android:name=".ListActivity"
+            android:exported="true" />
+        <activity
             android:name=".CustomToastActivity"
             android:exported="true" />
         <activity

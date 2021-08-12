@@ -1,5 +1,6 @@
 package com.example.kotlinsampleapp
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.Gravity
@@ -13,6 +14,7 @@ class CustomToastActivity : AppCompatActivity() {
         setContentView(R.layout.activity_custom_toast)
 
         val button = findViewById<Button>(R.id.button)
+        val buttonList = findViewById<Button>(R.id.listSCreen)
 
         val linearLayout = findViewById<LinearLayout>(R.id.linearLayout)
 
@@ -23,6 +25,11 @@ class CustomToastActivity : AppCompatActivity() {
             myToast.setGravity(Gravity.CENTER_VERTICAL, 0, 0)
             myToast.view = layout//setting the view of custom toast layout
             myToast.show()
+        }
+
+        buttonList.setOnClickListener(){
+            intent = Intent(this,ListActivity::class.java)
+            startActivity(intent)
         }
 
     }
