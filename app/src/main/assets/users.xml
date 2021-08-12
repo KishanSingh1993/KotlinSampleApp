@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<users>
+    <user>
+        <name>Kishan</name>
+        <designation>Apple</designation>
+    </user>
+    <user>
+        <name>Aditya</name>
+        <designation>Apple</designation>
+    </user>
+    <user>
+        <name>Gautam</name>
+        <designation>Apple</designation>
+    </user>
+    <user>
+        <name>Ruchi</name>
+        <designation>HP</designation>
+    </user>
+    <user>
+        <name>Smriti</name>
+        <designation>Dell</designation>
+    </user>
+    <user>
+        <name>Steve</name>
+        <designation>Apple</designation>
+    </user>
+    <user>
+        <name>Sundar</name>
+        <designation>Google</designation>
+    </user>
+    <user>
+        <name>Jeff</name>
+        <designation>Amazon</designation>
+    </user>
+</users>
+
