@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.KotlinSampleApp">
         <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+        <activity
             android:name=".SaxParserScreen"
             android:exported="true" />
         <activity
@@ -28,7 +31,7 @@
             android:name=".SecondActivity"
             android:exported="true" />
         <activity
-            android:name=".MainActivity"
+            android:name=".mvp.MvpActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
